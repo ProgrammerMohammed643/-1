@@ -1,2 +1,3 @@
-types
-telebot
+requests
+pyTelegramBotAPI
+user-agent
